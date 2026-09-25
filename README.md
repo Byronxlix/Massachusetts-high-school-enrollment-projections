@@ -157,6 +157,20 @@ python enrollment_projection.py
 
 ```
 
+## Project Results
+
+The completed projection pipeline produced:
+
+- 648 historical enrollment records covering 2019–2024
+- 108 interpolated enrollment records for 2020
+- 480 annual cohort survival ratio (CSR) calculations
+- 96 weighted cohort survival ratio (WACSR) calculations
+- 6 WACSR values flagged for additional review due to unusually high cohort progression ratios
+- 240 projected Grade 9–12 enrollment records covering 2025–2029
+
+All final projection records were checked for missing values, duplicates, and negative enrollment values.
+
+
 ## Power BI Dashboard
 
 An interactive Power BI dashboard was developed to communicate projected enrollment trends, county-level differences, grade-level changes, and projection quality-assurance results.
