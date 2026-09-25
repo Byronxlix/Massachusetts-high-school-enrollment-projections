@@ -153,7 +153,9 @@ Supporting documentation includes the project methodology, data dictionary, and 
 3. Run the enrollment projection script from the main project folder:
 
 ```bash
-python enrollment_projection.py
+python enrollment_projection.py 
+
+```
 
 ## Power BI Dashboard
 
