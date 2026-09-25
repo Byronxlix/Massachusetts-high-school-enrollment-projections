@@ -146,3 +146,9 @@ Supporting documentation includes the project methodology, data dictionary, and 
 An interactive Power BI dashboard was developed to communicate projected enrollment trends, county-level differences, grade-level changes, and projection quality-assurance results.
 
 ![Power BI Executive Overview](dashboard/executive_overview.png)
+
+### County & Grade Analysis
+
+The county-level analysis allows users to examine projected enrollment changes by grade, compare 2025 and 2029 enrollment, and review county-specific trends and QA considerations.
+
+![Power BI County and Grade Analysis](dashboard/county_grade_analysis.png)
