@@ -1,6 +1,5 @@
 # County-Level High School Enrollment Projection
 
-**Bentley University — Enrollment Management Business Intelligence**
 
 This project develops county-level high school enrollment projections for Massachusetts using U.S. Census Bureau American Community Survey (ACS) enrollment data. The projections cover Grades 9–12 for 2025–2029 and are intended to support Enrollment Management research and recruitment planning.
 
