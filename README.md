@@ -141,6 +141,20 @@ Main Python script used to execute the enrollment projection pipeline.
 ### Documentation
 Supporting documentation includes the project methodology, data dictionary, and Power BI reporting materials. 
 
+## How to Run the Project
+
+1. Clone or download this repository.
+
+2. Install the required Python package:
+
+   ```bash
+   pip install -r requirements.txt
+   
+3. Run the enrollment projection script from the main project folder:
+
+```bash
+python enrollment_projection.py
+
 ## Power BI Dashboard
 
 An interactive Power BI dashboard was developed to communicate projected enrollment trends, county-level differences, grade-level changes, and projection quality-assurance results.
