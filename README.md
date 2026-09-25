@@ -152,3 +152,9 @@ An interactive Power BI dashboard was developed to communicate projected enrollm
 The county-level analysis allows users to examine projected enrollment changes by grade, compare 2025 and 2029 enrollment, and review county-specific trends and QA considerations.
 
 ![Power BI County and Grade Analysis](dashboard/county_grade_analysis.png)
+
+### Methodology & Quality Assurance
+
+This page documents the projection methodology, data-quality checks, and key limitations of the analysis. It summarizes the workflow from ACS enrollment data through cohort survival calculations and final projections, while highlighting QA results and areas requiring additional caution when interpreting the projections.
+
+![Power BI Methodology and Quality Assurance](dashboard/methodology_qa.png)
