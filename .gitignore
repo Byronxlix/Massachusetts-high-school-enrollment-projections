@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm project settings
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Duplicate project files / local analysis folder
+Python Analysis/
